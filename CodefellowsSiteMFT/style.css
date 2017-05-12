@@ -1,0 +1,99 @@
+
+
+
+
+
+div.container {
+    width: 100%;
+	height:80%; 
+    border: 1px solid gray;
+	
+}
+
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: #4CBB17;
+    clear: left;
+    text-align: center;
+	border: 2px solid white; 
+	font-family: Tahoma; 
+	text-shadow: 2px 2px grey; 
+	text-decoration: none; 
+}
+footer {
+    padding: 1em;
+    color: white;
+    background-color: #4CBB17;
+    clear: left;
+    text-align: center;
+	border: 2px solid white; 
+	font-family: Tahoma; 
+	text-shadow: 2px 2px grey;  
+
+}	
+
+@media screen and (max-width: 480px) {
+    img {
+         height:250px; 
+		 width: 250px; 
+    }
+}
+@media screen and (max-width: 480px) {
+	
+		#menuTable{ font-size: 75%; 
+						}
+	
+}
+
+#menuTable{
+	
+	text-decoration: none; 
+	padding-right: 1em; 
+	border-collapse:separate; 
+	border-spacing:1em;
+	margin-left:auto; 
+    margin-right:auto;
+
+
+	
+}
+#strategiesSection{
+	
+	text-align: left; 
+	
+}
+	
+}
+img{
+	margin-top: 2em;
+	max-width: 100%; 
+	border: 2px solid white; 	
+	}
+	
+
+
+article {
+    
+    overflow: hidden;
+	background-color: #766f63; 
+	text-align: center; 
+	font-family: Sans-Serif; 
+	color: white;
+	text-shadow: 2px 2px #333333; 
+	 
+}
+#quizPage {
+    overflow: hidden;
+	background-color: #766f63; 
+	text-align: left; 
+	font-family: Sans-Serif; 
+	color: white;
+	text-shadow: 2px 2px #333333; 
+	 
+}
+h2{
+		text-shadow: none; 
+};
+
